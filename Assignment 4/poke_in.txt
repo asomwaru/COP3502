@@ -1,0 +1,53 @@
+4 32 15
+fire
+water
+ground
+flying
+water squirtle 5
+flying rayquaza 70
+ground mamoswine 34
+fire charizard 36
+flying staraptor 34
+ground garchomp 48
+ground sandshrew 16
+water piplup 5
+flying aang 110
+fire zuko 16
+water katara 14
+ground toph 12
+ground groudon 55
+flying lugia 2000
+flying zapdos 40
+flying articuno 40
+fire moltres 40
+ground nidoking 35
+water swampert 36
+fire victini 15
+ground marowak 34
+fire heatran 60
+water palkia 45
+water keldeo 15
+ground flygon 45
+ground gliscor 35
+flying tornadus 45
+flying aerodactyl 20
+water kyogre 70
+flying pidgeot 37
+fire blaziken 36
+water wartortle 16
+height_balance fire
+count flying
+delete ground marowak
+search ground marowak
+height_balance water
+height_balance flying
+count fire
+delete flying lugia
+item_before water swampert
+item_before fire victini
+search flying rayquaza
+reduce flying aang 100
+delete_name flying
+delete_name water
+search fire blaziken
+reduce ground garchomp 15
